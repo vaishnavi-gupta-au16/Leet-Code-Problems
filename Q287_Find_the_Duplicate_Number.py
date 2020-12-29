@@ -1,7 +1,5 @@
 """
 Q1. https://leetcode.com/problems/find-the-duplicate-number/
-(Solve the above using both the approaches discussed in class) and comment on time
-complexity.
 
 287. Find the Duplicate Number
 
